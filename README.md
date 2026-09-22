@@ -1,8 +1,7 @@
 # Hi, I'm Rajeev Mangal 👋
 
-<p align="center">
-  <img src="./rajeev_github_profile_animation.gif" alt="Rajeev Mangal profile animation">
-</p>
+🎓 BCA Student | 🤖 Machine Learning | 🐍 Python | 💻 DSA
+
 
 I am a BCA student focused on building practical applications using Python, Machine Learning, and AI.
 

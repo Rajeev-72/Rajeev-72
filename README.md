@@ -1,6 +1,8 @@
 # Hi, I'm Rajeev Mangal 👋
 
-🎓 BCA Student | 🤖 Machine Learning | 🐍 Python | 💻 DSA
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=BCA+Student;Machine+Learning+Enthusiast;Python+Developer;AI+%26+ML+Learner;DSA+Problem+Solver" alt="Typing SVG" />
+</p>
 
 I am a BCA student focused on building practical applications using Python, Machine Learning, and AI.
 

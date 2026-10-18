@@ -6,7 +6,7 @@
 - 🔭 Currently working on **AI-powered products**
 - 🌱 Learning **Machine Learning**, **Data Science**, and **DSA**
 - 💡 Interested in building real-world AI applications
-- 📫 Reach me at: [your email]
+- 📫 Reach me at: rajeevmangal1510@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +21,9 @@
 
 ### 🤖 AI / Data Science
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8E44AD?style=flat-square&logo=spacy&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-00BCD4?style=flat-square&logo=openai&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 📚 CS Fundamentals

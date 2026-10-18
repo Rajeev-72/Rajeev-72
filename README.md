@@ -6,7 +6,7 @@
 - 🔭 Currently working on **AI-powered products**
 - 🌱 Learning **Machine Learning**, **Data Science**, and **DSA**
 - 💡 Interested in building real-world AI applications
-- 📫 Reach me at: [your email]
+- 📫 Reach me at: rajeevmangal1510@gmal.com
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)

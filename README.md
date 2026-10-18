@@ -1,57 +1,25 @@
 # Hi, I'm Rajeev Mangal 👋
 
-🎓 BCA Student | 🤖 Machine Learning | 🐍 Python | 💻 DSA
+🎓 BCA Student | 🤖 AI/ML Enthusiast | 💻 Python Developer
 
+## 🚀 About Me
+- 🔭 Currently working on **AI-powered products**
+- 🌱 Learning **Machine Learning**, **Data Science**, and **DSA**
+- 💡 Interested in building real-world AI applications
+- 📫 Reach me at: [your email]
 
-I am a BCA student focused on building practical applications using Python, Machine Learning, and AI.
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 🚀 What I'm Working On
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [AI Product Platform](https://github.com/Rajeev-72/AI-powered-product-recommendation-comparison-and-customer-support-platform) | AI-powered e-commerce recommendation & support | JavaScript |
+| [Employee Attrition System](https://github.com/Rajeev-72/employee-attrition-system) | Predicts employee churn using ML | Python |
+| [Gold Price Prediction](https://github.com/Rajeev-72/Gold_price_prediction) | Forecasts gold prices using ML models | Python |
 
-* Machine Learning projects
-* AI-powered applications
-* Full-stack applications with ML integration
-* Data Structures and Algorithms
-
-## 🛠️ Technical Skills
-
-### Languages
-
-Python • C • Java • SQL
-
-### Machine Learning & Data Science
-
-NumPy • Pandas • Scikit-learn • Matplotlib
-
-### Development
-
-FastAPI • Flask • Streamlit • HTML • CSS • JavaScript
-
-### Databases
-
-PostgreSQL • MySQL • MongoDB
-
-### Tools
-
-Git • GitHub • VS Code • Google Colab
-
-## 🚀 Featured Projects
-
-* **Real-Time Public Transport Tracking** — Real-time bus tracking system using FastAPI, PostgreSQL/PostGIS and web technologies.
-* **Gold Price Prediction** — Machine learning regression application using Random Forest and Streamlit.
-* **Employee Attrition Prediction** — Classification system with data preprocessing, SMOTE and machine learning.
-* **AI Customer Support Chatbot** — AI-powered customer support application.
-* **AI Interview Preparation System** — AI-based system for practicing technical interviews.
-* **LeetCode Question Practice** — Data Structures and Algorithms practice using Python.
-
-## 📚 Currently Learning
-
-* Advanced Python
-* Machine Learning
-* Deep Learning
-* Data Structures & Algorithms
-* MLOps
-
-## 🔗 Connect With Me
-
-* [LinkedIn](https://www.linkedin.com/in/rajeev-mangal-7a5b5a337/)
-* [Portfolio](https://rajeev-72.github.io/Rajeev-Portfolio/)
+## 📊 GitHub Stats
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev-72&show_icons=true&theme=radical)
